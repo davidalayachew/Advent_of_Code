@@ -7,9 +7,77 @@
     <Snap>true</Snap>
     <Show>false</Show>
   </Grid>
+  <Scope id="1">
+    <Name>part2</Name>
+    <Signature>()V</Signature>
+    <DeclaringType>AOC_2020$Day14</DeclaringType>
+    <Depth>1</Depth>
+  </Scope>
+  <Scope id="0">
+    <Name>lambda$part2$3</Name>
+    <Signature>(LAOC_2020$Day14$2WriteValuesWithMask;)V</Signature>
+    <DeclaringType>AOC_2020$Day14</DeclaringType>
+    <Depth>5</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>1010</X>
+      <Y>100</Y>
+      <W>324</W>
+      <H>46</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local AOC_2020$Day14$2WriteValuesWithMask` eachWindow.writeValues</Expression>
+      <ViewerClass>jgrasp_viewers.java__util__Collection_ToStringView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>70</X>
+      <Y>160</Y>
+      <W>794</W>
+      <H>106</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>1</ScopeID>
+      <Expression>`local java.util.List` values</Expression>
+      <ViewerClass>jgrasp_viewers.java__util__Collection_ToStringView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>670</X>
+      <Y>60</Y>
+      <W>267</W>
+      <H>78</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local AOC_2020$Day14$2WriteValuesWithMask` eachWindow</Expression>
+      <ViewerClass>jgrasp_viewers._X_ElementView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>2</X>
+      <Y>40</Y>
+      <W>416</W>
+      <H>106</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>1</ScopeID>
+      <Expression>`local java.util.List` testLines</Expression>
+      <ViewerClass>jgrasp_viewers.java__util__Collection_ToStringView</ViewerClass>
+    </Viewer>
+  </Frame>
   <Size>
-    <W>325</W>
-    <H>393</H>
+    <W>1484</W>
+    <H>287</H>
   </Size>
   <ESize>
     <W>960</W>
